@@ -9,7 +9,7 @@ import redis.clients.jedis.JedisCluster;
 /**
  * Created by xxx on 2017/6/6.
  */
-@Component
+//@Component
 public class MyRedisTemplate {
 
     private static final Logger LOGGER    = LoggerFactory.getLogger(MyRedisTemplate.class);
